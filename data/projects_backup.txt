@@ -1,0 +1,10 @@
+{
+  "year": "2020",
+  "name": "YOU && I",
+  "keywords": "Game Design, Programming, Web",
+  "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+  "description": "YOU && I is a program based on the computer and black box ‘almost aliveness’ properties. It relies on an original poem to question this relationship between human and machine while the program answers unsatisfactory responses that nor contributes nor deteriorate this relationship.",
+  "link": "",
+  "images": [],
+  "videos": []
+}

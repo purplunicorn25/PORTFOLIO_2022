@@ -1,0 +1,60 @@
+body {
+  margin: 0;
+  background-color: #fffcfa;
+  color: #3333ff;
+  user-select: none;
+}
+
+/* Page Title */
+h1 {
+  margin: 1%;
+  font-family: 'PT Mono', monospace;
+  font-size: 6em;
+  line-height: 120%;
+}
+
+.fr {
+  display: block;
+  width: 200px;
+  height: 230px;
+  position: absolute;
+  left: 30%;
+  top: 38%;
+  border-style: solid;
+  text-align: center;
+}
+
+.en {
+  display: block;
+  width: 200px;
+  height: 230px;
+  position: absolute;
+  left: 60%;
+  top: 38%;
+  border-style: solid;
+  text-align: center;
+}
+
+.back {
+  display: block;
+  width: 100px;
+  position: absolute;
+  left: 2%;
+  top: 14%;
+}
+
+a:-webkit-any-link {
+  color: inherit;
+  cursor: pointer;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  color: red;
+  transition: 0.3s;
+}
+
+html {
+  scrollbar-width: none;
+}

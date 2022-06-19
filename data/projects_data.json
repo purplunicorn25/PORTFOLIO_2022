@@ -1,0 +1,309 @@
+{
+  "description": "Anne Boutet Portfolio",
+  "projects": [{
+      "year": "2017",
+      "name": "Sonnez le glas;<br>le temps ne meurt pas",
+      "keywords": "Fashion Design; Menswear; Trend Forecast; Drawing",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.png",
+      "description": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This mini-collection was inspired by the Fashion Snoops trend direction Portal for the Men’s FW 2018-2019 season. The ample coats, shirts, soft sweaters and wool pants compose this collection and are enhanced with various pockets and details.",
+      "link": "",
+      "images": [{
+          "src": "assets/images/sonnez_le_glas/mood.png",
+          "name": "FASHION SNOOP TREND",
+          "source": "https://www.fashionframeworks.com/sitemap/articlepermonth/12/2017"
+        },
+        {
+          "src": "assets/images/sonnez_le_glas/drawing_00.jpg",
+          "name": "SKETCHES FULL OUTFIT",
+          "source": ""
+        },
+        {
+          "src": "assets/images/sonnez_le_glas/drawing_01.jpg",
+          "name": "SKETCHES COATS & PANTS",
+          "source": ""
+        },
+        {
+          "src": "assets/images/sonnez_le_glas/drawing_02.jpg",
+          "name": "APLATS COATS",
+          "source": ""
+        },
+        {
+          "src": "assets/images/sonnez_le_glas/drawing_03.jpg",
+          "name": "SKETCHES & APLATS TOPS",
+          "source": ""
+        },
+        {
+          "src": "assets/images/sonnez_le_glas/drawing_04.jpg",
+          "name": "APLAT PANTS",
+          "source": ""
+        },
+        {
+          "src": "assets/images/sonnez_le_glas/aplat_00.png",
+          "name": "DIGITAL APLATS COLOURED",
+          "source": ""
+        }, {
+          "src": "assets/images/sonnez_le_glas/mind_mapping.jpg ",
+          "name": "MIND MAPPING",
+          "source": ""
+        }
+      ],
+      "videos": []
+    },
+    {
+      "year": "2017",
+      "name": "FashionTech",
+      "keywords": "Fashion Design ; Smart Clothing",
+      "thumbnail": "assets/images/sonnez_le_glas/test_icon.png",
+      "description": "The Fashion Tech Project is a collaboration between CCTT Vestech, the CÉGEP Marie-Victorin and the CÉGEP Bois-de-Boulogne. Its purpose is the creation of technological clothing and accessories with intelligent properties. Fashion Design and Computer Sciences and Mathematics students worked together, using Raspberry Pi’s technologies, to present a functional prototype at McCord Museum’s spring event. During the Digital Spring Festival, the evening organized by Mtl Fashion Tech marked the 50th anniversary of the Expo67; the futuristic style of the projects evoked that of the 60s. The silhouette included a coat with retractable sleeves, an integrated wrist watch showing time and temperature, a camera inserted in the collar allowed the public to take photos and videos and, finally, the mittens acted as a command center, controlling the listed functions of the skidoo combinaison.",
+      "link": "",
+      "images": [{
+          "src": "assets/images/fashion_tech/img_00.jpg",
+          "name": "FIRST SKETCH",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_01.jpg",
+          "name": "FINALE PROTOTYPE AT MCCORD MUSEUM",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_02.jpg",
+          "name": "JACKET",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_03.jpg",
+          "name": "JACKET INSIDE",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_04.jpg",
+          "name": "MITTENS AKA CONTROLLERS",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_05.jpg",
+          "name": "LEDS ON",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_06.jpg",
+          "name": "EXPO67 SIGN",
+          "source": ""
+        },
+        {
+          "src": "assets/images/fashion_tech/img_07.jpg",
+          "name": "",
+          "source": "DESIGN TEAM: Fany Jara-Bouthot, Élémia Charette, Makou Timité, Jade Croteau, Anne Boutet, Kelly Beaudoin & Audrey Coulombe \n PROGRAM TEAM:Laurent Bédard-Hamel, Serge El-Hage, Emilie Larivée, Xavier Pellmans, Daphné Lafleur, Chloe Garceau, Esther Guerrier, Lilya Boyadjieva & Eric Weenas"
+        }
+      ],
+      "videos": []
+    },
+    {
+      "year": "2020",
+      "name": "Computational<br>Wizards",
+      "keywords": "Game; Turn-Based Strategy; Interactive Narrative: JQuery",
+      "thumbnail": "assets/images/sonnez_le_glas/test_icon.png",
+      "description": "This concept of a computational wizard duel is the simple coincidence while coding and listening to the Harry Potter movie’s soundtracks. With the keyboard as a wand and computer functions as spells in a classic turn-by-turn fight, spells like “Send Virus to Hard Drive” or “Frozen Screen” are the weapons for this game where battery power acts as health points.",
+      "link": [{
+        "button": "Computational Wizard Game",
+        "https": "https://purplunicorn25.github.io/CART263/00-Projects/Project_3/"
+      }, {
+        "button": "Computational Wizard Code",
+        "https": "https://github.com/purplunicorn25/CART263/blob/master/00-Projects/Project_3/js/script.js"
+      }],
+      "images": [{
+        "src": "assets/images/computational_wizard/picture_00.png",
+        "name": "IN GAME SCREEN CAPTURE",
+        "source": ""
+      }],
+      "videos": []
+    },
+    {
+      "year": "2021",
+      "name": "3D Textile",
+      "keywords": "Fashion Design; 3D Printing",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "This research-creation project realised with Audrey Coulombe and MC Larivière focuses on the emerging potential of 3D printing for the textile industry. One of our goals was to expose how physical and mechanical properties of a 3D printed textile affect the body-clothing relationship. These are our preliminary research samples and video presentations",
+      "link": [{
+        "button": "Moving Boundaries Class Exhibition",
+        "https": "http://fortheloveofsound.ca/CART410Exhibition/index.php/8-exhibitioncontent/4-3d-printing-textile"
+      }, {
+        "button": "Milieux Exhibition Event",
+        "https": "https://milieux.concordia.ca/event/finissage-in-the-middle-a-chimera-the-milieux-institute/"
+      }],
+      "images": [{
+        "src": "assets/images/3D_textiles/thumbnail.jpg",
+        "name": "",
+        "source": ""
+      }],
+      "videos": ["assets/images/3D_textiles/ECU_video.mp4"]
+    },
+    {
+      "year": "2020",
+      "name": "Low Poly Diorama",
+      "keywords": "3D Sculpture, Diorama  ",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "This diorama represents a secret underground library inspired from the fictional location called Cemetery of Forgotten Books from Shadow of the Wind by Carlos Ruiz Zafón.",
+      "link": "",
+      "images": [{
+        "src": "assets/images/low_poly/img_00.png",
+        "name": "INSIDE THE LIBRARY 01",
+        "source": ""
+      }, {
+        "src": "assets/images/low_poly/img_01.png",
+        "name": "CIRCULAR STAIRCASE",
+        "source": ""
+      }, {
+        "src": "assets/images/low_poly/img_02.png",
+        "name": "STREET VIEW",
+        "source": ""
+      }, {
+        "src": "assets/images/low_poly/img_03.png",
+        "name": "INSIDE THE LIBRARY 02",
+        "source": ""
+      }, {
+        "src": "assets/images/low_poly/img_04.jpg",
+        "name": "INITIAL SKETCH",
+        "source": ""
+      }],
+      "videos": []
+    },
+    {
+      "year": "2020",
+      "name": "Meparu",
+      "keywords": "Character Design, Animation, 3D Sculpture",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "Meparu is a humanoid character design project realised with blender, substance painter and maximo.",
+      "link": "",
+      "images": [{
+        "src": "assets/images/meparu/AnneB_Meparu_model_sheet.png",
+        "name": "ROBOTS",
+        "source": ""
+      }, {
+        "src": "assets/images/meparu/AnneB_Meparu_Vignette.png",
+        "name": "STILL CHARACTER",
+        "source": ""
+      }, {
+        "src": "assets/images/meparu/Idle_Shy.gif",
+        "name": "MOCAP IDLE SHY",
+        "source": ""
+      }, {
+        "src": "assets/images/meparu/Run_Front.gif",
+        "name": "MOCAP RUN",
+        "source": ""
+      }, {
+        "src": "assets/images/meparu/Run_Side.gif",
+        "name": "MOCAP SIDE RUN",
+        "source": ""
+      }],
+      "videos": ["assets/images/meparu/walk_cycle_turntable.mp4"]
+    },
+    {
+      "year": "2019",
+      "name": "The (Secret) Journey of a Maranta Leuconara",
+      "keywords": "Game Design, Programming, Web",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "This game is a game where your only power is patience. The overall ambience is zen and the interaction level low. You can collect water for your plant to keep yourself busy while leaves grow and grow. You win when the Maranta Leuconara is a fully grown and happy.",
+      "link": [{
+        "button": "Maranta Leuconara Game",
+        "https": "https://purplunicorn25.github.io/CART253/03 - Projects/Project3/Maranta Leuconeura/index.html"
+      }],
+      "images": [{
+        "src": "assets/images/maranta/img.png",
+        "name": "START SCREEN",
+        "source": ""
+      }],
+      "videos": []
+    },
+    {
+      "year": "2021",
+      "name": "Play the Pain",
+      "keywords": "UX/UI Design, Media Health",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "Play the Pain is a playful media Health platform, designed to put chronic pain patients and their caregivers at the heart of pain research.I participated in curating and correcting the UI and UX of the app. These are a few examples screens.",
+      "link": [{
+        "button": "Play the Pain - Media Health Website",
+        "https": "https://media-health.ca/play-the-pain/"
+      }],
+      "images": [{
+        "src": "assets/images/play_pain/img_00.png",
+        "name": "TRACK PAIN",
+        "source": ""
+      }, {
+        "src": "assets/images/play_pain/img_01.png",
+        "name": "REPORT",
+        "source": ""
+      }, {
+        "src": "assets/images/play_pain/img_02.png",
+        "name": "TRACK SLEEP",
+        "source": ""
+      }, {
+        "src": "assets/images/play_pain/img_03.png",
+        "name": "ABOUT THE APP",
+        "source": ""
+      }],
+      "videos": []
+    },
+    {
+      "year": "2021",
+      "name": "Florelegia",
+      "keywords": "UX Design, Quotes, App",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "Florilegia is a mobile device platform that encourages users to collect, explore, and create meaning with quotes. The idea for Florilegia originates from my experience with collecting quotations. Some years ago, I began gathering excerpts and lines from novels, poetry, and occasionally from conversations and lately discovered that what I have been doing was a spiritual practice from the 5th century. Sometimes referred to as a patristic anthology, florilegium is the name of both the method and the receptacle for a collection of passages from writings of previous authors. I was disappointed when I looked for online instances of modern florilegium but found an overwhelming number of quotation apps and social media account. This app prototype is both for users who collect, read and introspect with quotes.",
+      "link": [{
+        "button": "Florelegia Adobe Xd Prototype",
+        "https": "https://xd.adobe.com/view/736b2218-766c-4cba-b97d-ce4b1e7c334a-2638/screen/5ca9be2c-5a9c-4361-8694-b833ae90e857"
+      }],
+      "images": [{
+        "src": "assets/images/flore/Home.png",
+        "name": "HOME PAGE",
+        "source": ""
+      }, {
+        "src": "assets/images/flore/About.png",
+        "name": "ABOUT",
+        "source": ""
+      }, {
+        "src": "assets/images/flore/Archive.png",
+        "name": "ARCHIVE",
+        "source": ""
+      }, {
+        "src": "assets/images/flore/Search.png",
+        "name": "SEARCH",
+        "source": ""
+      }],
+      "videos": []
+    },
+    {
+      "year": "2020",
+      "name": "FukyuKataIchi",
+      "keywords": "Photography, Video Compositing, Poetry",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "This project was firstly a soundscape experience that was reused as soundtrack for a visual video editing project. Although the visual aspects are not meant to match the context of the soundscape this project pays tribute to my long going martial art practice.",
+      "link": "",
+      "images": [],
+      "videos": ["assets/images/Fukyu/Project_2_212_AB.mp4"]
+    },
+    {
+      "year": "2020",
+      "name": "Talking Head",
+      "keywords": "3D Sculpture",
+      "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+      "description": "3D head sculpt inspired by Roman Semenenko's 2D illustration.",
+      "link": [{
+        "button": "Roman Semenenko's Art Station",
+        "https": "https://www.artstation.com/semrom"
+      }],
+      "images": [{
+        "src": "assets/images/talking/00.jpg",
+        "name": "ORIGINAL 2D IMAGE",
+        "source": ""
+      }, {
+        "src": "assets/images/talking/01.png",
+        "name": "3D SCULPT",
+        "source": ""
+      }],
+      "videos": []
+    }
+  ]
+}
