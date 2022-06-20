@@ -38,7 +38,7 @@ h1 {
   top: 5%;
   margin: 1%;
   font-family: 'PT Mono', monospace;
-  font-size: 165%;
+  font-size: 135%;
   line-height: 120%;
 }
 
@@ -78,7 +78,7 @@ h6 {
   position: absolute;
   left: 5%;
   top: 68%;
-  font-size: 0.4em;
+  font-size: 0.34em;
   font-family: 'Roboto Mono', monospace;
 }
 
