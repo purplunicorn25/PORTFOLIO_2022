@@ -7,4 +7,14 @@
   "link": "",
   "images": [],
   "videos": []
+},
+{
+  "year": "2020",
+  "name": "FukyuKataIchi",
+  "keywords": "Photography, Video Compositing, Poetry",
+  "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
+  "description": "This project was firstly a soundscape experience that was reused as soundtrack for a visual video editing project. Although the visual aspects are not meant to match the context of the soundscape this project pays tribute to my long going martial art practice.",
+  "link": "",
+  "images": [],
+  "videos": ["assets/images/Fukyu/Project_2_212_AB.mp4"]
 }

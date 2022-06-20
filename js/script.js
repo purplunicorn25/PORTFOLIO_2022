@@ -25,6 +25,7 @@ let jsonLoaded = false;
 let imgLoaded = false;
 let visual = [];
 let visualHTML = [];
+let videosHTML = [];
 
 let mouseIsOver = false;
 let speedX = 0;
@@ -92,6 +93,7 @@ function setup() {
   variables();
   iniFlex();
   combineIMG();
+  combineMP4();
   scrollParagraph();
 }
 
@@ -205,6 +207,29 @@ function combineIMG() {
   }
 }
 
+// combineMP4
+//
+//
+function combineMP4() {
+  // For each project
+  for (let i = 0; i < projects.length; i++) {
+    // Create array and text prior
+    let divInsert = [];
+    let divComp = "";
+    // State the correct number of index (images)
+    for (let ii = 0; ii < projects[i].videos.length; ii++) {
+      divInsert.push(`<video width="100%" controls><source src="${projects[i].videos[ii].src}"></video><div class="imgName">${projects[i].videos[ii].name}</div><div class="imgSource">${projects[i].videos[ii].source}</div>`);
+
+      // Join the array to make text
+      for (let ii = 0; ii < divInsert.length; ii++) {
+        divComp = divInsert.join("");
+      }
+    }
+    // The index of visualHTML corresponds to the number of projects
+    videosHTML.push(divComp);
+  }
+}
+
 // expand
 //
 //
@@ -225,9 +250,16 @@ function expand() {
         // Add the images
         $(`#${i}`).append(`<div class="visuals" id="visual${i}">${visualHTML[i]}</div>`);
         //Add videos
-        if (projects[i].videos.length > 0) {
-          $(`#visual${i}`).append(`<video width="100%" controls><source src="${projects[i].videos[0]}"></video>`);
-        }
+        $(`#${i}`).append(`<div class="visuals" id="videos${i}">${videosHTML[i]}</div>`);
+        // if (projects[i].videos.length > 0) {
+        //   $(`#visual${i}`).append(`<video width="100%" controls><source src="${projects[i].videos[0]}"></video>`);
+        // }
+        //Add videos
+        // if (projects[i].videos.length > 0) {
+        //   for (let ii = 0; ii < projects[i].videos.length; ii++) {
+        //     $(`#visual${i}`).append(`<video width="100%" controls><source src="${projects[i].videos[ii].src}"></video>`);
+        //   }
+        // }
         // Up button
         $(`#${i}`).append(`<div class="restore">↑</div>`);
         $(`.restore`).click(() => {

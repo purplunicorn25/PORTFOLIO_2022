@@ -137,7 +137,17 @@
         "name": "",
         "source": ""
       }],
-      "videos": ["assets/images/3D_textiles/ECU_video.mp4"]
+      "videos": [{
+          "src": "assets/images/3D_textiles/ECU_video.mp4",
+          "name": "CLOSE UP PROMOTIONAL",
+          "source": ""
+        },
+        {
+          "src": "assets/images/3D_textiles/MCU_video.mp4",
+          "name": "MOVEMENT AFFORDANCE",
+          "source": ""
+        }
+      ]
     },
     {
       "year": "2020",
@@ -275,14 +285,21 @@
       "videos": []
     },
     {
-      "year": "2020",
-      "name": "FukyuKataIchi",
-      "keywords": "Photography, Video Compositing, Poetry",
+      "year": "2022",
+      "name": "A Sad Shark Story",
+      "keywords": "Interactive Narrative, Game Design, Poetry",
       "thumbnail": "assets/images/sonnez_le_glas/thumbnail.jpg",
-      "description": "This project was firstly a soundscape experience that was reused as soundtrack for a visual video editing project. Although the visual aspects are not meant to match the context of the soundscape this project pays tribute to my long going martial art practice.",
-      "link": "",
-      "images": [],
-      "videos": ["assets/images/Fukyu/Project_2_212_AB.mp4"]
+      "description": "A refreshing and simple choice-based game with an emotional shark as hero.",
+      "link": [{
+        "button": "A Sad Shark Story Game",
+        "https": "https://hybrid.concordia.ca/a_outet/hammerhead_shark/hammerhead_shark_v1.html"
+      }],
+      "images": [{
+        "src": "assets/images/sad_shark/img_00.PNG",
+        "name": "IN GAME PREVIEW",
+        "source": ""
+      }],
+      "videos": []
     },
     {
       "year": "2020",
