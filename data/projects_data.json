@@ -8,7 +8,7 @@
       "description": "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This mini-collection was inspired by the Fashion Snoops trend direction Portal for the Men’s FW 2018-2019 season. The ample coats, shirts, soft sweaters and wool pants compose this collection and are enhanced with various pockets and details.",
       "link": "",
       "images": [{
-          "src": "assets/images/sonnez_le_glas/mood.png",
+          "src": "assets/images/sonnez_le_glas/mood.PNG",
           "name": "FASHION SNOOP TREND",
           "source": "https://www.fashionframeworks.com/sitemap/articlepermonth/12/2017"
         },
@@ -57,7 +57,7 @@
       "description": "The Fashion Tech Project is a collaboration between CCTT Vestech, the CÉGEP Marie-Victorin and the CÉGEP Bois-de-Boulogne. Its purpose is the creation of technological clothing and accessories with intelligent properties. Fashion Design and Computer Sciences and Mathematics students worked together, using Raspberry Pi’s technologies, to present a functional prototype at McCord Museum’s spring event. During the Digital Spring Festival, the evening organized by Mtl Fashion Tech marked the 50th anniversary of the Expo67; the futuristic style of the projects evoked that of the 60s. The silhouette included a coat with retractable sleeves, an integrated wrist watch showing time and temperature, a camera inserted in the collar allowed the public to take photos and videos and, finally, the mittens acted as a command center, controlling the listed functions of the skidoo combinaison.",
       "link": "",
       "images": [{
-          "src": "assets/images/fashion_tech/img_00.jpg",
+          "src": "assets/images/fashion_tech/img_00.JPG",
           "name": "FIRST SKETCH",
           "source": ""
         },
@@ -227,19 +227,19 @@
         "https": "https://media-health.ca/play-the-pain/"
       }],
       "images": [{
-        "src": "assets/images/play_pain/img_00.png",
+        "src": "assets/images/play_pain/img_00.PNG",
         "name": "TRACK PAIN",
         "source": ""
       }, {
-        "src": "assets/images/play_pain/img_01.png",
+        "src": "assets/images/play_pain/img_01.PNG",
         "name": "REPORT",
         "source": ""
       }, {
-        "src": "assets/images/play_pain/img_02.png",
+        "src": "assets/images/play_pain/img_02.PNG",
         "name": "TRACK SLEEP",
         "source": ""
       }, {
-        "src": "assets/images/play_pain/img_03.png",
+        "src": "assets/images/play_pain/img_03.PNG",
         "name": "ABOUT THE APP",
         "source": ""
       }],
